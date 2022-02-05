@@ -1,4 +1,2 @@
 # learn_github
-GitHub実践ハンズオン
-
-初変更
+ I changed this text at 2022/02/05
